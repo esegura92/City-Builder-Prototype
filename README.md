@@ -7,7 +7,7 @@ Implement a simple city builder where you can place and move buildings and produ
 
 **Set of features:**
 
-The game should have two main modes:
+The game has two main modes:
 * **Regular mode:** in which player can select a building by clicking on it and see a building name on top of it and current production progress (or can start a new production if no production is running)
 * **Build mode:** the player can place a new building or move an existing building 
 when player presses 'build mode' he should see a simple list with building's names and their prices where he can choose a new building to place.
